@@ -16,21 +16,21 @@ Pillow pour la manipulation d'images
 
 Clonez ce dépôt:
 
-  git clone https://github.com/minedark94/Python-hex-editor.git
+    git clone https://github.com/minedark94/Python-hex-editor.git
 
 Naviguez vers le répertoire du projet:
 
-  cd Python-hex-editor
+    cd Python-hex-editor
 
 Installez les dépendances nécessaires:
 
-  pip install -r requirements.txt
+    pip install -r requirements.txt
 
 ## Utilisation
 
 Lancez le script principal pour démarrer l'application:
 
-  python multi_function_analyzer_ui.py
+    python multi_function_analyzer_ui.py
 
 
 ![1](https://github.com/minedark94/Python-hex-editor/assets/34186377/c93c9ab0-0ea7-43f1-840c-7544e85829e3)
