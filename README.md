@@ -38,6 +38,7 @@ Lancez le script principal pour démarrer l'application:
 ![3](https://github.com/minedark94/Python-hex-editor/assets/34186377/b97d078b-cc6f-4440-bcf0-2935c9692b0d)
 ![4](https://github.com/minedark94/Python-hex-editor/assets/34186377/8203d353-bb77-4c88-b165-f5b719fe7362)
 ![5](https://github.com/minedark94/Python-hex-editor/assets/34186377/40d0c3bc-5eb3-42e8-9c89-4bca046b3d55)
+![6](https://github.com/minedark94/Python-hex-editor/assets/34186377/d34226bf-c7db-4a64-9540-053a74b12f3c)
 
 
 
