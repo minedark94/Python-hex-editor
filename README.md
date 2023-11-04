@@ -34,4 +34,12 @@ Lancez le script principal pour démarrer l'application:
 
 
 
+![4](https://github.com/minedark94/Python-hex-editor/assets/34186377/2477b016-5c16-4237-9701-a6ab4d1c8688)
+![3](https://github.com/minedark94/Python-hex-editor/assets/34186377/f25d0010-e6d1-4b10-ae27-988a360617b6)
+![2](https://github.com/minedark94/Python-hex-editor/assets/34186377/37ce9a62-766d-47d7-a7c3-921874bf9c67)
+![1](https://github.com/minedark94/Python-hex-editor/assets/34186377/d0c86746-f474-4aaf-a605-e2a20a9adcd9)
+![5](https://github.com/minedark94/Python-hex-editor/assets/34186377/375893b0-ae01-4589-bd76-c389cd610d4c)
+
+
+
   
