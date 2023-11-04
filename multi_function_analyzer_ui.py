@@ -213,23 +213,33 @@ class ImageMetadataWindow(QWidget):
             self.image_metadata.setPlainText(metadata_text)
 
     def extract_metadata(self, image):
-        metadata_dict = {}
-        exifdata = image.getexif()
-        for tag_id in exifdata:
-            tag_name = TAGS.get(tag_id, tag_id)
-            data = exifdata.get(tag_id)
+        # Ouvrir l'image
+        
 
-            # Convert IFDRational objects to a string representation
-            if "IFDRational" in str(type(data)):
-                data = str(data.numerator) + "/" + str(data.denominator)
+        # Obtenir les métadonnées EXIF
+        exif_data = image._getexif()
 
-            # Decode bytes
-            elif isinstance(data, bytes):
-                data = data.decode('utf-8', 'ignore')
+        # Créer un dictionnaire pour les métadonnées
+        metadata = {}
 
-            metadata_dict[tag_name] = data
+        # Ajouter des métadonnées spécifiques non-EXIF
+        metadata["FileType"] = image.format
+        metadata["ImageWidth"] = image.width
+        metadata["ImageHeight"] = image.height
+        metadata["ImageSize"] = f"{image.width}x{image.height}"
+        metadata["Megapixels"] = round((image.width * image.height) / 1000000, 2)
 
-        return metadata_dict
+        # Obtenir les métadonnées EXIF
+        if exif_data:
+            for tag, value in exif_data.items():
+                tag_name = ExifTags.TAGS.get(tag, tag)
+                if tag_name in ["ExifImageWidth", "ExifImageHeight", "Make", "Model", "Software", "DateTimeOriginal", "GPSInfo"]:
+                    # Convertir les valeurs IFDRational en chaîne de caractères
+                    if isinstance(value, tuple):
+                        value = f"{value[0]}/{value[1]}"
+                    metadata[tag_name] = value
+        
+        return metadata
 
 
     def export_metadata(self):
