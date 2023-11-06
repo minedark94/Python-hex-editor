@@ -34,9 +34,11 @@ Lancez le script principal pour démarrer l'application:
 
 
 ![Capture d’écran du 2023-11-06 09-16-47](https://github.com/minedark94/Python-hex-editor/assets/34186377/e165ab3e-1c64-4250-ad43-1f5e9856a1c9)
-![Capture d’écran du 2023-11-06 09-17-57](https://github.com/minedark94/Python-hex-editor/assets/34186377/881b2d73-8433-45f6-8477-35681b1527e5)
-![Capture d’écran du 2023-11-06 09-17-41](https://github.com/minedark94/Python-hex-editor/assets/34186377/5023e8d2-1c6d-4d91-b0ad-4d7bcbe32488)
 ![Capture d’écran du 2023-11-06 09-17-27](https://github.com/minedark94/Python-hex-editor/assets/34186377/22c46792-0ed4-45aa-ae9e-2da7fbf68276)
+![Capture d’écran du 2023-11-06 09-17-41](https://github.com/minedark94/Python-hex-editor/assets/34186377/5023e8d2-1c6d-4d91-b0ad-4d7bcbe32488)
+![Capture d’écran du 2023-11-06 09-17-57](https://github.com/minedark94/Python-hex-editor/assets/34186377/881b2d73-8433-45f6-8477-35681b1527e5)
+
+
 
 
 
