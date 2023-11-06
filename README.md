@@ -33,12 +33,11 @@ Lancez le script principal pour démarrer l'application:
     python multi_function_analyzer_ui.py
 
 
-![1](https://github.com/minedark94/Python-hex-editor/assets/34186377/c93c9ab0-0ea7-43f1-840c-7544e85829e3)
-![2](https://github.com/minedark94/Python-hex-editor/assets/34186377/efc42324-ae9f-4dab-808a-b82e4f565f0a)
-![3](https://github.com/minedark94/Python-hex-editor/assets/34186377/b97d078b-cc6f-4440-bcf0-2935c9692b0d)
-![4](https://github.com/minedark94/Python-hex-editor/assets/34186377/8203d353-bb77-4c88-b165-f5b719fe7362)
-![5](https://github.com/minedark94/Python-hex-editor/assets/34186377/40d0c3bc-5eb3-42e8-9c89-4bca046b3d55)
-![6](https://github.com/minedark94/Python-hex-editor/assets/34186377/d34226bf-c7db-4a64-9540-053a74b12f3c)
+
+![Capture d’écran du 2023-11-06 09-17-57](https://github.com/minedark94/Python-hex-editor/assets/34186377/881b2d73-8433-45f6-8477-35681b1527e5)
+![Capture d’écran du 2023-11-06 09-17-41](https://github.com/minedark94/Python-hex-editor/assets/34186377/5023e8d2-1c6d-4d91-b0ad-4d7bcbe32488)
+![Capture d’écran du 2023-11-06 09-17-27](https://github.com/minedark94/Python-hex-editor/assets/34186377/22c46792-0ed4-45aa-ae9e-2da7fbf68276)
+![Capture d’écran du 2023-11-06 09-16-47](https://github.com/minedark94/Python-hex-editor/assets/34186377/e165ab3e-1c64-4250-ad43-1f5e9856a1c9)
 
 
 
